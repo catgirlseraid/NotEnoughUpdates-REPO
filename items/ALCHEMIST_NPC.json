@@ -23,7 +23,7 @@
     {
       "type": "npc_shop",
       "cost": [
-        "SKYBLOCK_COIN:30"
+        "SKYBLOCK_COIN:10"
       ],
       "result": "NETHER_STALK"
     },
@@ -37,7 +37,7 @@
     {
       "type": "npc_shop",
       "cost": [
-        "SKYBLOCK_COIN:50"
+        "SKYBLOCK_COIN:48"
       ],
       "result": "GLASS_BOTTLE:8"
     },
@@ -100,7 +100,7 @@
     {
       "type": "npc_shop",
       "cost": [
-        "SKYBLOCK_COIN:30"
+        "SKYBLOCK_COIN:15"
       ],
       "result": "GOLDEN_CARROT"
     }

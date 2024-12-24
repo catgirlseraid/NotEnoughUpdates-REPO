@@ -25,7 +25,7 @@
       "cost": [
         "SKYBLOCK_COIN:1000"
       ],
-      "result": "PARKOUR_CONTROLLER"
+      "result": "PARKOUR_CONTROLLER:2"
     },
     {
       "type": "npc_shop",
@@ -53,7 +53,7 @@
       "cost": [
         "SKYBLOCK_COIN:1000"
       ],
-      "result": "EGG_HUNT"
+      "result": "EGG_HUNT:2"
     },
     {
       "type": "npc_shop",
